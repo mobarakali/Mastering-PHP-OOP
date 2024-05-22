@@ -11,7 +11,7 @@ In the initial month of our journey, we will explore the fundamentals of PHP OOP
 
 **Day 1-2: Introduction to OOP**
 - **Tasks**:
-  - Read about the basics of Object-Oriented Programming.
+  - Learn about the basics of Object-Oriented Programming.
   - Understand the difference between procedural and object-oriented programming.
   - Watch introductory videos or tutorials on PHP OOP.
   - Resources:
